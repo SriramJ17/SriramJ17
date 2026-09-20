@@ -1,5 +1,7 @@
 # 👋 Sriram Jayaraman
 
+[![Profile views](https://komarev.com/ghpvc/?username=SriramJ17&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/SriramJ17)
+
 ### Software Engineer · Cloud & Platform Engineering · DevOps · AI Automation
 
 I build **reliable cloud systems, developer platforms, and automation** that reduce operational complexity and improve engineering productivity.
