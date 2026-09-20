@@ -148,8 +148,6 @@ Working on automation around build systems, CI/CD, engineering workflows, and de
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriram-jayaraman-94254b13b)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaramansriram95@gmail.com)
 
 ---
