@@ -119,12 +119,6 @@ Automating build systems, CI/CD, engineering workflows, and developer tooling to
 
 ---
 
-## 🌐 Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayaramansriram95@gmail.com)
-
-<div align="center">
-
 > **Build systems. Automate the repetitive. Make engineering easier.**
 
 </div>
